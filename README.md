@@ -6,4 +6,5 @@ Some commonly used JAVA tools
 *  StringUtils.java 操作String字符串，添加Isblank函数，用于判断字符串是否为空
 *  DateTimeUtil.java 使用jodatime进行date类型与string类型的时间相互转换
 *  MD5Util.java JAVA用户注册登录使用MD5非对称加密解密
+*  ImageUtil.java JAVA改变image大小，将Image改为Jpg格式
 
