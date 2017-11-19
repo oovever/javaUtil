@@ -10,7 +10,6 @@ public class BigDecimalUtil {
     private BigDecimalUtil() {
 
     }
-
     /**
      *
      * @param v1　相加的第一个数
