@@ -8,4 +8,5 @@ Some commonly used JAVA tools
 *  MD5Util.java JAVA用户注册登录使用MD5非对称加密解密
 *  ImageUtil.java JAVA改变image大小，将Image改为Jpg格式
 *  PageUtil.java 分页工具类，分页时使用
+*  ParentUtil.java 获取继承的子类
 
