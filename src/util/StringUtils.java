@@ -1,5 +1,7 @@
 package util;
 
+import java.util.UUID;
+
 /**
  * Created by OovEver on 2017/11/19.
  */
@@ -18,5 +20,8 @@ public class StringUtils {
         } else {
             return true;
         }
+    }
+    public static String randomString() {
+        return UUID.randomUUID().toString();
     }
 }
